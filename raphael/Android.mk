@@ -1,4 +1,8 @@
 # Copyright (C) 2019 The LineageOS Project
+<<<<<<< HEAD
+=======
+# Copyright (C) 2019 The PixelExperience Project
+>>>>>>> 2280353ad08e3da153723aa26fcd4de34e09ca09
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,6 +22,7 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),raphael)
 
+<<<<<<< HEAD
 include $(CLEAR_VARS)
 LOCAL_MODULE := QtiTelephonyService
 LOCAL_MODULE_OWNER := xiaomi
@@ -121,4 +126,6 @@ LOCAL_MODULE_CLASS := JAVA_LIBRARIES
 LOCAL_MODULE_SUFFIX := .jar
 include $(BUILD_PREBUILT)
 
+=======
+>>>>>>> 2280353ad08e3da153723aa26fcd4de34e09ca09
 endif

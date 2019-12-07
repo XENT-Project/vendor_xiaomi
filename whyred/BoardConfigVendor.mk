@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Copyright (C) 2019 AOSiP
+=======
+# Copyright (C) 2018-2019 The LineageOS Project
+# Copyright (C) 2018-2019 The PixelExperience Project
+>>>>>>> 2280353ad08e3da153723aa26fcd4de34e09ca09
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
