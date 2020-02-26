@@ -38,6 +38,7 @@
     LogDirectoryMaxSizeMb="280"
     LogLineThreshold="400000"
     GnssYearOfHardware="2018"
+
   />
 
   <gll
